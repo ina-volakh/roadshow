@@ -11,8 +11,6 @@ apply plugin: 'com.bmuschko.cargo'
 apply plugin: 'com.bmuschko.cargo-base'
 
 
-laskjfölkajöflkj
-
 // If you use this project for training and want to deploy to your Tomcat webapp
 // you must chose set a trainingUserName, which gives you your own deploy path on Tomcat
 // and your own artifact repository 
